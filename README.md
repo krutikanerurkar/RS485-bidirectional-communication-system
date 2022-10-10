@@ -1,4 +1,5 @@
 RS-485 based bidirectional communication system(peer to peer communication)
+
 In this project RS-485 communication is established with the help of EK-TM4C123GXL evaluation board.
 
 In this repository I have attached my code for the same. I have used a modular design approach.
