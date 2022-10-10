@@ -11,8 +11,7 @@ The parse data is then further extracted and send to the is Command function cre
 
 After the processing of the commands the data is extracted from them and further sent to the transmit buffer for transmission (RS485 interface) is used for this purpose(tx_485.c/tx_485.h)
 
-The UART 1 (FIFO disabled) with a interrupt driven approach is used for this purpose.(Uart1.c/Uart1.h)
-Hence, we use the UART 1 ISR for checking the raw interrupt status so that we can transmit and receive in accordingly.(Uart1.c/Uart1.h)
+The UART 1 (FIFO disabled) with a interrupt driven approach is used for this purpose.Hence, we use the UART 1 ISR for checking the raw interrupt status so that we can transmit and receive in accordingly.(Uart1.c/Uart1.h)
 
 The data at the receiver end is stored in the receiver buffer and then further (process message) is used to process the received commands and implement the functionality.(rx_485.c/rx_485.h)
 
