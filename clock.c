@@ -1,5 +1,5 @@
 // Clock Library
-// Krutika Nerurkar
+// KRUTIKA NERURKAR
 
 //-----------------------------------------------------------------------------
 // Hardware Target
