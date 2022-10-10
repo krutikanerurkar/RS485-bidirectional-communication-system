@@ -1,5 +1,5 @@
 // Clock Library
-// Jason Losh
+// Krutika Nerurkar
 
 //-----------------------------------------------------------------------------
 // Hardware Target
