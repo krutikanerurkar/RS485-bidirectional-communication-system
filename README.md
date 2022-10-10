@@ -22,6 +22,6 @@ Also, in order to keep a check if the receiver sends the acknowledgement is sent
 There is a Random ON and Random OFF command which is  used to calculate the retransmission time.For, Random ON command we have used PN generation method to calculate the retransmission time.
 This is advisable so that there are no collisions during transmissions from different receiver at the same time as it is a peer to peer network.(tx_485.c/tx_485.h)
 
-For, generation of the random numbers we have used a internal temperature sensor to generate random seed which is then further the processed to create a random number.(tx_485.c/tx_485.h)
+For, generation of the random numbers we have used a internal temperature sensor to generate random seed which is then further the processed to create a random number.(tx_485.c/tx_485.h,)
 
 There is also a Timer 0 ISR running at 100 Hz which is basically used to blink the Red and green led for receiver and transmitter.(timer0.c/Timer0.h)
