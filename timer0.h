@@ -1,5 +1,5 @@
 
-// UART1 Library
+// Timer0 Library
 // Krutika Nerurkar
 
 //-----------------------------------------------------------------------------
@@ -29,7 +29,6 @@ extern uint32_t tx_ledtimeout;
 extern uint32_t rx_ledtimeout;
 extern uint8_t  test_cs;
 extern bool     test_done;
-
 extern bool     busy;
 
 
