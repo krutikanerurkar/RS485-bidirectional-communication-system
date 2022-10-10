@@ -1,5 +1,5 @@
 // ADC0  Library
-// Jason Losh
+// Krutika Nerurkar
 
 //-----------------------------------------------------------------------------
 // Hardware Target
