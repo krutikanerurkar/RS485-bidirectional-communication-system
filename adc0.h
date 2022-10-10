@@ -1,5 +1,5 @@
 // ADC0  Library
-// Krutika Nerurkar
+//KRUTIKA NERURKAR
 
 //-----------------------------------------------------------------------------
 // Hardware Target
