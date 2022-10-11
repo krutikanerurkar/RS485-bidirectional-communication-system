@@ -4,7 +4,7 @@ In this repository I have attached my code for the same. I have used a modular d
 
 Following are the steps that will help you through the execution of the code . Each functionality has a source code and header file associated with them.
 
-The user takes data from the putty terminal and process it using the parse string function created by the user(Uart0.c/Uart0.h)
+The user takes data from the putty terminal and process it using the parse string function created by the user(Uart0.c/Uart0.h/main.c)
 
 The parse data is then further extracted and send to the is Command function created by the user where the commands are processed further(Uart0.c/Uart.h)
 
